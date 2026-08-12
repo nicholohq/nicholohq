@@ -134,41 +134,6 @@ An experimental AI product that helps users decide what to do by generating acti
 
 ---
 
-## 🚀 What I Build
-
-### 💻 Full-Stack Development
-
-Building responsive web applications, APIs, backend systems, and database-driven products.
-
-### 🤖 AI & Automation
-
-Exploring AI-powered applications, integrations, intelligent workflows, and automation.
-
-### 🌐 Digital Products
-
-Turning ideas into usable, deployed products — from the first concept to a working system.
-
-### 🧪 Experimental Projects
-
-Learning by building, experimenting with new technologies, and solving problems through code.
-
----
-
-## 📚 Currently Learning
-
-```text
-Advanced Database Systems
-Programming Languages
-Computer Networks
-Backend Architecture
-AI Engineering
-Software Architecture
-```
-
-I'm currently studying Computer Science while continuing to build real-world projects outside the classroom.
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
