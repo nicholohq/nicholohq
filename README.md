@@ -169,7 +169,15 @@ I'm currently studying Computer Science while continuing to build real-world pro
 
 ---
 
-## 📊 GitHub
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicholohq/nicholohq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicholohq/nicholohq/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/nicholohq/nicholohq/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 📊 GitHub Stats
 
 <div align="left">
 
