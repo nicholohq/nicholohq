@@ -181,9 +181,9 @@ I'm currently studying Computer Science while continuing to build real-world pro
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicholohq&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Nicholo's GitHub stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nicholohq&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="Nicholo's GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholohq&layout=compact&hide_border=true" height="165" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicholohq&layout=compact&hide_border=true" height="165" alt="Top languages"/>
 
 </div>
 
